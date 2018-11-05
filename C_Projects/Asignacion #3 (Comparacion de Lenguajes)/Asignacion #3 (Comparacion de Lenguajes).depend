@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1446560382 source:d:\c_projects\asignacion #3 (comparacion de lenguajes)\diving_competition.c
+	<stdio.h>
+	<stddef.h>
+	<stdlib.h>
+
+1446512286 source:d:\c_projects\asignacion #3 (comparacion de lenguajes)\employee_payroll.c
+
+1446513732 source:d:\c_projects\asignacion #3 (comparacion de lenguajes)\linked_list.c
+	<stdio.h>
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+
+1446515464 source:d:\c_projects\asignacion #3 (comparacion de lenguajes)\binary_tree.c
+	<stdio.h>
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+

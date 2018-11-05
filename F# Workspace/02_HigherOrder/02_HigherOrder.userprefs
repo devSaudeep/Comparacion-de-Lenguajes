@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="02_HigherOrder/02_HigherOrder.fsproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="02_HigherOrder/composition_demo.fs">
+    <Files>
+      <File FileName="02_HigherOrder/composition_demo.fs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

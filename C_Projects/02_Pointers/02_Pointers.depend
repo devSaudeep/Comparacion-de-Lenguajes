@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1444868928 source:d:\c_projects\02_pointers\pointers_demo.c
+	<stdio.h>
+	<stddef.h>
+
+1443631196 source:d:\c_projects\02_pointers\time_components.c
+	<stdio.h>
+
+1443631436 source:d:\c_projects\02_pointers\combine_three.c
+	<stdio.h>
+

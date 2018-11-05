@@ -1,0 +1,2 @@
+/Volumes/SAUDEEP ~/F# Workspace/Asignacion 5 (Comparacion de Lenguajes)/Asignacion 5 (Comparacion de Lenguajes)/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.fs
+/Volumes/SAUDEEP ~/F# Workspace/Asignacion 5 (Comparacion de Lenguajes)/Asignacion 5 (Comparacion de Lenguajes)/bin/Debug/FSharp.Core.dll

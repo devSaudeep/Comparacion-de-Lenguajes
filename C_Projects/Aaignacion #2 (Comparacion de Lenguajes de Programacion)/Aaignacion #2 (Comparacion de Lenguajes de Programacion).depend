@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1444513506 source:g:\c_projects\aaignacion #2 (comparacion de lenguajes de programacion)\rock_paper_scissors.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1444510038 source:d:\c_projects\aaignacion #2 (comparacion de lenguajes de programacion)\rock_paper_scissors.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1444595728 source:d:\c_projects\aaignacion #2 (comparacion de lenguajes de programacion)\fibonacci_calc.c
+	<stdio.h>
+
+1444777044 source:d:\c_projects\aaignacion #2 (comparacion de lenguajes de programacion)\array_stats.c
+	<stdio.h>
+
+1444784164 source:d:\c_projects\aaignacion #2 (comparacion de lenguajes de programacion)\my_array_fns.c
+	<stdio.h>
+
+1444791382 source:d:\c_projects\aaignacion #2 (comparacion de lenguajes de programacion)\my_string_fns.c
+	<stdio.h>
+	<ctype.h>
+

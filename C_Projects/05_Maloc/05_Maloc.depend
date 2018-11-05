@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1445445102 source:e:\c_projects\05_maloc\malloc_demo.c
+	<stdio.h>
+	<stddef.h>
+	<stdlib.h>
+

@@ -1,0 +1,7 @@
+F:\F# Workspace\06_IO\06_IO\bin\Debug\_06_IO.XML
+F:\F# Workspace\06_IO\06_IO\bin\Debug\_06_IO.exe
+F:\F# Workspace\06_IO\06_IO\bin\Debug\_06_IO.pdb
+F:\F# Workspace\06_IO\06_IO\bin\Debug\FSharp.Core.dll
+F:\F# Workspace\06_IO\06_IO\bin\Debug\FSharp.Core.xml
+F:\F# Workspace\06_IO\06_IO\obj\Debug\_06_IO.exe
+F:\F# Workspace\06_IO\06_IO\obj\Debug\_06_IO.pdb

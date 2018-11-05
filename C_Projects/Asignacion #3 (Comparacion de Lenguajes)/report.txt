@@ -1,0 +1,9 @@
+        Diving Competition Results
+
+ID      Name                 Trunc. Average
+--      ----                 --------------
+1234    Doe, John            8.500
+5678    Doe, Jane            8.500
+7483    Almighty, Zeus            9.625
+8752    Pitt, Brad            8.375
+1235    Jolie, Angelina            8.250

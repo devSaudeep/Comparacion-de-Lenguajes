@@ -1,0 +1,7 @@
+F:\F# Workspace\07_Stacks\07_Stacks\bin\Debug\_07_Stacks.XML
+F:\F# Workspace\07_Stacks\07_Stacks\bin\Debug\_07_Stacks.exe
+F:\F# Workspace\07_Stacks\07_Stacks\bin\Debug\_07_Stacks.pdb
+F:\F# Workspace\07_Stacks\07_Stacks\bin\Debug\FSharp.Core.dll
+F:\F# Workspace\07_Stacks\07_Stacks\bin\Debug\FSharp.Core.xml
+F:\F# Workspace\07_Stacks\07_Stacks\obj\Debug\_07_Stacks.exe
+F:\F# Workspace\07_Stacks\07_Stacks\obj\Debug\_07_Stacks.pdb

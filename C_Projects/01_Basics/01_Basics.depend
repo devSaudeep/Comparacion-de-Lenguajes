@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1442853390 source:e:\c_projects\01_basics\circle_calc.c
+	<stdio.h>
+	<math.h>
+
+1443454682 source:e:\c_projects\01_basics\factorial_first.c
+	<stdio.h>
+
+1443455038 source:e:\c_projects\01_basics\sizeof_demo.c
+	<stdio.h>
+	<stdbool.h>
+
+1443455038 source:d:\c_projects\01_basics\sizeof_demo.c
+	<stdio.h>
+	<stdbool.h>
+

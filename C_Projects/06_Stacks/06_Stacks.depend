@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1446047594 source:d:\c_projects\06_stacks\stack_lnk.c
+	"stack.h"
+	<stddef.h>
+	<stdlib.h>
+
+1446046804 d:\c_projects\06_stacks\stack.h
+	<stdbool.h>
+
+1446048532 source:d:\c_projects\06_stacks\stack_menu.c
+	"stack.h"
+	<stdio.h>
+	<stddef.h>
+	<stdlib.h>
+
+1446049396 source:d:\c_projects\06_stacks\stack_arr.c
+	"stack.h"
+	<stddef.h>
+	<stdlib.h>
+
