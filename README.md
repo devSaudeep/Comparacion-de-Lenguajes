@@ -129,9 +129,3 @@ Smith, C. (2012). Programming F# 3.0.  Sebastopol, CA: O’Reilly.
 TutorialsPoint. (2015). C Tutorial. Recuperado de http://www.tutorialspoint.com/cprogramming/index.htm.
 
 ZenTut. (2015). C Tutorial.  Recuperado de http://www.zentut.com/c-tutorial.
-
-O.	LEY ADA Y LEY 51
-
-La Universidad de Puerto Rico en Bayamón está comprometida con el cumplimiento de la Ley de Rehabilitación Vocacional de 1973, Sección 504 (Acomodo Razonable), y la Ley ADA (American with Disabilities Act) de 1990, las cuales aseguran que los estudiantes con impedimentos tengan  igual acceso a las oportunidades educacionales en la universidad.  Todo estudiante que requiera un acomodo razonable debido al impacto de su impedimento, deberá visitar la Oficina de Servicios para Estudiantes Universitarios con Impedimentos (OSEUI), ubicada en el primer piso del Centro de Estudiantes, al lado de la Cafetería, para someter evidencia médica actualizada que le requiera la oficina para la otorgación de los acomodos razonables y otros servicios.  
-
-A solicitud del estudiante, la OSEUI preparará una carta individualizada para cada profesor.  Esta carta certifica que el estudiante tiene un impedimento y presenta los acomodos razonables que requiere el estudiante para la obtención de un adecuado aprovechamiento académico.  Los estudiantes son responsables de reunirse con cada uno de sus profesores al inicio de cada semestre académico para discutir las implicaciones académicas de su impedimento, cómo está relacionado con algunos cursos en específico y a solicitar los acomodos razonables.
